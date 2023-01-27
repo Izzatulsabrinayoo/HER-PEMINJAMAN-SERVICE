@@ -1,0 +1,8 @@
+com\izza\peminjaman\service\VO\Buku.class
+com\izza\peminjaman\service\VO\Anggota.class
+com\izza\peminjaman\service\controller\PeminjamanController.class
+com\izza\peminjaman\service\PeminjamanServiceApplication.class
+com\izza\peminjaman\service\VO\ResponseTemplateVO.class
+com\izza\peminjaman\service\entity\Peminjaman.class
+com\izza\peminjaman\service\repository\PeminjamanRepository.class
+com\izza\peminjaman\service\service\PeminjamanService.class
